@@ -3,3 +3,7 @@
 # Certifique-se de incluir validações para garantir que apenas números positivos sejam considerados na contageme cálculos.
 
 
+pares = 0
+impares = 0
+
+
