@@ -1,4 +1,4 @@
-# Exercíos - Bootcamp Back-End Python e Django da  WoMakersCode - Semana 3
+# Exercícios - Bootcamp Back-End Python e Django da  WoMakersCode - Semana 3
 
 ![gato](./imagem/GATO.gif)
 
